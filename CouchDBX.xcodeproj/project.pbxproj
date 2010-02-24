@@ -201,7 +201,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh -e\ncp -r ../couchdbx-builder/couchdbx-core";
+			shellScript = "#!/bin/sh -e\n#cp -r ../couchdbx-builder/couchdbx-core";
 		};
 /* End PBXShellScriptBuildPhase section */
 
